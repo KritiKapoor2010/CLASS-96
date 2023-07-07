@@ -1,0 +1,1 @@
+import fireebase from "firebase"
